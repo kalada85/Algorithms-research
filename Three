@@ -1,0 +1,25 @@
+*2. Three Building Blocks of Algorithms
+All algorithms are built from these 3 structures:
+a. Sequence
+Steps executed one after another in order.
+_Example: _Making tea
+1. Boil water
+2. Put tea bag in cup
+3. Pour hot water
+4. Remove tea bag
+b. Selection (IF/ELSE)
+Make a decision and choose a path based on a condition.
+_Example:_ Checking if you have an umbrella
+IF it is raining THEN
+    Take umbrella
+ELSE
+    Go without umbrella
+END IF
+c. Iteration (Loops)
+Repeat a set of steps until a condition is met.
+_Example:_ Counting to 5
+SET count = 1
+WHILE count <= 5 DO
+    PRINT count
+    Count = count + 1
+END WHILE
