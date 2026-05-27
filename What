@@ -1,0 +1,13 @@
+What is Pseudocode + Example
+Pseudocode is a plain-language description of an algorithm. It’s not real code, so you don’t worry about syntax. It helps you plan logic before writing in Python, Java, etc.
+Simple example: Check if a number is even
+BEGIN
+    INPUT number
+    IF number MOD 2 = 0 THEN
+        PRINT “Even”
+    ELSE
+        PRINT “Odd”
+    END IF
+END
+`MOD` means remainder after division. If remainder is 0, the number is even.
+
