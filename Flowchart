@@ -1,0 +1,11 @@
+4. What is a Flowchart + Standard Symbols
+
+A *flowchart* is a diagram that shows the flow of an algorithm using shapes and arrows.
+Symbol	Name	Use
+!	Terminal	Start or end of the algorithm
+!	Input/Output	Get input or display output
+!	Process	Perform a calculation or action
+!	Decision	Make a yes/no or true/false decision
+!	Flow line	Show direction of flow
+[Oval][Parallelogram][Rectangle][Diamond][Arrow]
+You connect these shapes with arrows to show the order of steps.
