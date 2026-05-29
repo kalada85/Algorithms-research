@@ -1,0 +1,16 @@
+5. Algorithm in Pseudocode: Find the Largest of 3 Numbers
+Problem: You have 3 numbers. Find which one is largest.
+Pseudocode:
+BEGIN
+    INPUT a, b, c
+    SET largest = a
+    IF b > largest THEN
+        SET largest = b
+    END IF
+    IF c > largest THEN
+        SET largest = c
+    END IF
+    PRINT “The largest number is”, largest
+END
+How it works:
+Assume `a` is largest first. Check `b` and `c` one by one. If you find a bigger number, update `largest`. At the end, print the result.
